@@ -16,8 +16,7 @@
 
 *****
 
-- Mail: [archeryan1218@gmail.com](mailto:archeryan1218@gmail.com)
-- Blog: [archeryan.com](http://www.archeryan.com)
+- Blog: [yqtaku.github.com](http://yqtaku.github.com)
 
 =====
 
