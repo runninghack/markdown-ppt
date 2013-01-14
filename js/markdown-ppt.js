@@ -193,31 +193,6 @@ var ppt = (function() {
 		var dCurrent = T.$("#current");
 		dCurrent.style.width = precent + "%";
 	}
-	/* ------------
-	 * next page
-	 * page[i + 1].left 150% -> 50%; show -> over
-	 * page[i].left 50% -> -50%; wait -> show
-	 * ------------ */
-	/*var next = function() {
-		var i = index.get() - 1;
-		if (i === aPage.length - 1) return false;
-		 aPage[i].className = aPage[i].className.replace("show", "over");
-		aPage[i + 1].className = aPage[i + 1].className.replace("wait", "show");
-		index.next();
-	};*/
-
-	/* ------------
-	 * next page
-	 * page[i - 1].left -50% -> 50%; show -> wait
-	 * page[i].left 50% -> 150%; over -> show
-	 * ------------ */
-	/*var prev = function() {
-		var i = index.get() - 1;
-		if (i === 0) return false;
-		aPage[i].className = aPage[i].className.replace("show", "wait");
-		aPage[i - 1].className = aPage[i - 1].className.replace("over", "show");
-		index.prev();
-	};*/
 
 	return {
 		init: init
