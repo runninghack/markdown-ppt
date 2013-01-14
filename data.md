@@ -16,6 +16,7 @@
 
 *****
 
+- Email: [yqtaku@gmail.com](mailto:yqtaku@gmail.com)
 - Blog: [yqtaku.github.com](http://yqtaku.github.com)
 
 =====
