@@ -1,4 +1,4 @@
-markdown-ppt
+Markdown PPT
 ===========
 
 A simple ppt powered by js &amp; markdown 
